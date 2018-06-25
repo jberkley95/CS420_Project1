@@ -1,0 +1,296 @@
+~~~~ Menu ~~~~
+1) Generate Random Puzzle
+2) Enter a puzzle
+3) Quit
+
+Enter your choice as a number: 1
+Heuristic: Misplaced Tiles
+Depth: 10
+Search Cost: 59
+Heuristic: Manhattan Distance
+Depth: 10
+Search Cost: 25
+
+Move: 0
+014
+652
+738
+
+Move: 1
+104
+652
+738
+
+Move: 2
+140
+652
+738
+
+Move: 3
+142
+650
+738
+
+Move: 4
+142
+605
+738
+
+Move: 5
+142
+635
+708
+
+Move: 6
+142
+635
+078
+
+Move: 7
+142
+035
+678
+
+Move: 8
+142
+305
+678
+
+Move: 9
+102
+345
+678
+
+Move: 10
+012
+345
+678
+
+
+~~~~ Menu ~~~~
+1) Generate Random Puzzle
+2) Enter a puzzle
+3) Quit
+
+Enter your choice as a number: 1
+Heuristic: Misplaced Tiles
+Depth: 24
+Search Cost: 23112
+Heuristic: Manhattan Distance
+Depth: 24
+Search Cost: 571
+
+Move: 0
+580
+176
+243
+
+Move: 1
+508
+176
+243
+
+Move: 2
+058
+176
+243
+
+Move: 3
+158
+076
+243
+
+Move: 4
+158
+276
+043
+
+Move: 5
+158
+276
+403
+
+Move: 6
+158
+276
+430
+
+Move: 7
+158
+270
+436
+
+Move: 8
+158
+207
+436
+
+Move: 9
+158
+027
+436
+
+Move: 10
+158
+427
+036
+
+Move: 11
+158
+427
+306
+
+Move: 12
+158
+427
+360
+
+Move: 13
+158
+420
+367
+
+Move: 14
+150
+428
+367
+
+Move: 15
+105
+428
+367
+
+Move: 16
+125
+408
+367
+
+Move: 17
+125
+048
+367
+
+Move: 18
+125
+348
+067
+
+Move: 19
+125
+348
+607
+
+Move: 20
+125
+348
+670
+
+Move: 21
+125
+340
+678
+
+Move: 22
+120
+345
+678
+
+Move: 23
+102
+345
+678
+
+Move: 24
+012
+345
+678
+
+
+~~~~ Menu ~~~~
+1) Generate Random Puzzle
+2) Enter a puzzle
+3) Quit
+
+Enter your choice as a number: 1
+Heuristic: Misplaced Tiles
+Depth: 14
+Search Cost: 430
+Heuristic: Manhattan Distance
+Depth: 14
+Search Cost: 170
+
+Move: 0
+130
+542
+678
+
+Move: 1
+103
+542
+678
+
+Move: 2
+143
+502
+678
+
+Move: 3
+143
+052
+678
+
+Move: 4
+043
+152
+678
+
+Move: 5
+403
+152
+678
+
+Move: 6
+430
+152
+678
+
+Move: 7
+432
+150
+678
+
+Move: 8
+432
+105
+678
+
+Move: 9
+402
+135
+678
+
+Move: 10
+042
+135
+678
+
+Move: 11
+142
+035
+678
+
+Move: 12
+142
+305
+678
+
+Move: 13
+102
+345
+678
+
+Move: 14
+012
+345
+678
+
